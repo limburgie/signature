@@ -1,0 +1,26 @@
+{
+  "name": "Peter Mesotten",
+  "function": "Managing Director",
+  "pictureUrl": "https://files.web-factor.be/pawmygod/peter.png",
+  "pictureBorder": true,
+  "lightColor": "#fce8ef",
+  "darkColor": "#ef84a4",
+  "logoUrl": "https://files.web-factor.be/pawmygod/logo.png",
+  "organization": "Paw My God!",
+  "websiteUrl": "www.pawmygod.shop",
+  "email": "info@pawmygod.shop",
+  "tagline": "Bringing dog fashion to Europe.",
+  "round": "8px",
+  "icons": [
+    {
+      "name": "Instagram",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-instagram.png",
+      "websiteUrl": "https://www.instagram.com/pawmygod"
+    },
+    {
+      "name": "Facebook",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-facebook.png",
+      "websiteUrl": "https://www.facebook.com/PawMyGod"
+    }
+  ]
+}

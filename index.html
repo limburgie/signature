@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Signature generator</title>
+
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+
+<select id="picker">
+    <option>web-factor-company</option>
+    <option>web-factor-consultancy</option>
+    <option>spintoppr-nl</option>
+    <option>spintoppr-fr</option>
+    <option>inr-diary-en</option>
+    <option>inr-diary-de</option>
+    <option>paw-my-god-peter</option>
+    <option>paw-my-god-sandra</option>
+</select>
+<button id="copy">Copy</button>
+
+<br/><br/><br/>
+
+<div id="signature" style="font-family: 'Open Sans', Helvetica, Arial, sans-serif; line-height: 22px; font-size: 14px">
+    <table style="border-collapse: collapse">
+        <tr>
+            <td style="width: 10px; padding: 0">
+                <img id="sgn-picture" style="height: 50px; margin-right: 10px; border-radius: 4px"/>
+            </td>
+            <td>
+                <span id="sgn-name" style="font-weight: bold; color: #000"></span><br/>
+                <span id="sgn-function" style="color: #999"></span>
+            </td>
+        </tr>
+    </table>
+    <table id="sgn-light" style="width: 400px; color: #000; border-radius: 4px 4px 0 0; border-collapse: collapse; margin-top: 10px">
+        <tr>
+            <td style="padding: 16px;">
+                <a id="sgn-logo-url" style="display: block" target="_blank">
+                    <img id="sgn-logo-image" style="height: 40px; vertical-align: middle"/>
+                </a>
+            </td>
+            <td style="padding: 12px 16px;">
+                <a id="sgn-website" style="display: block; color: #000 !important; font-size: 11px; text-decoration: none; text-align: right; line-height: 22px" target="_blank"></a>
+                <a id="sgn-email" style="display: block; color: #000 !important; font-size: 11px; text-decoration: none; text-align: right; line-height: 22px"></a>
+                <a id="sgn-phone" style="display: block; color: #000 !important; font-size: 11px; text-decoration: none; text-align: right; line-height: 22px"></a>
+            </td>
+        </tr>
+    </table>
+    <table id="sgn-dark" style="width: 400px; color: #fff; border-radius: 0 0 4px 4px; border-collapse: collapse">
+        <tr>
+            <td style="padding: 12px 16px; font-size: 11px">
+                <span id="sgn-tagline"></span>
+            </td>
+            <td id="sgn-icons" style="padding: 12px 16px; text-align: right"></td>
+        </tr>
+    </table>
+</div>
+
+<script type="text/javascript">
+    init();
+</script>
+</body>
+</html>

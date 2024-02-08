@@ -1,0 +1,26 @@
+{
+  "name": "Peter Mesotten",
+  "function": "Software Architect",
+  "pictureUrl": "https://files.web-factor.be/pawmygod/peter.png",
+  "pictureBorder": true,
+  "lightColor": "#e4f0f8",
+  "darkColor": "#63a3cf",
+  "logoUrl": "https://files.web-factor.be/pawmygod/logo-webfactor.png",
+  "organization": "Web Factor",
+  "email": "peter@web-factor.be",
+  "phone": "+32 (0) 472 51 42 25",
+  "tagline": "I've never done it before, so I think I can do it.",
+  "round": "4px",
+  "icons": [
+    {
+      "name": "LinkedIn",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-linkedin.png",
+      "websiteUrl": "https://www.linkedin.com/in/petermesotten/"
+    },
+    {
+      "name": "Github",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-github.png",
+      "websiteUrl": "https://github.com/limburgie"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Peter Mesotten",
+  "function": "App Developer",
+  "pictureUrl": "https://files.web-factor.be/pawmygod/peter.png",
+  "pictureBorder": true,
+  "lightColor": "#f9cbbd",
+  "darkColor": "#89304b",
+  "logoUrl": "https://files.web-factor.be/pawmygod/logo-inr-diary.png",
+  "organization": "INR Diary",
+  "websiteUrl": "www.inrdiary.com",
+  "email": "peter@web-factor.be",
+  "tagline": "Your reliable oral anticoagulation companion.",
+  "round": "4px",
+  "icons": [
+    {
+      "name": "App Store",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-appstore.png",
+      "websiteUrl": "https://apps.apple.com/us/app/inr-diary/id1540505030"
+    },
+    {
+      "name": "Play Store",
+      "logoUrl": "https://files.web-factor.be/pawmygod/logo-playstore.png",
+      "websiteUrl": "https://play.google.com/store/apps/details?id=be.webfactor.inrdiaryplus"
+    }
+  ]
+}
