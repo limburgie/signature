@@ -84,6 +84,8 @@ function doBuild(data) {
         iconImgEl.style.width = "20px";
         iconImgEl.style.borderRadius = "10px";
         iconImgEl.style.verticalAlign = "middle";
+        iconImgEl.width = 20;
+        iconImgEl.height = 20;
         iconLinkEl.appendChild(iconImgEl);
     });
 }
