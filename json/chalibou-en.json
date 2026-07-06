@@ -1,15 +1,15 @@
 {
   "name": "Peter",
-  "function": "Eigenaar",
+  "function": "Owner",
   "pictureUrl": "https://files.web-factor.be/pawmygod/peter.png",
   "pictureBorder": true,
   "lightColor": "#e9d9c2",
   "darkColor": "#b88743",
   "logoUrl": "https://files.web-factor.be/pawmygod/logo-chalibou.png",
   "organization": "ChaliBou",
-  "websiteUrl": "www.chalibou.be/nl",
+  "websiteUrl": "www.chalibou.be/en",
   "email": "info@chalibou.be",
-  "tagline": "Familiechalet met het mooiste uitzicht op Bouillon",
+  "tagline": "Family chalet with the most beautiful view of Bouillon",
   "round": "4px",
   "icons": [
     {
